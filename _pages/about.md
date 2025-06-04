@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Cajetan Rodrigues"
+title: "Get to know me!"
 ---
 
 There is nothing here.
