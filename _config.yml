@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Cajetan Rodrigues
 email: caje731@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Cajetan Rodrigues | Personal Blog | Technology | Leadership
+description: Cajetan Rodrigues | Personal Blog | Technology | Leadership
 # twitter_username: username
 github_username: caje731
 minimal_mistakes_skin: default
@@ -59,8 +58,9 @@ plugins:
 author:
   name   : "Cajetan Rodrigues"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : “Full-spectrum engineering leader — from teams to architecture to execution”
-  location: Gothenburg, Sweden
+  bio    : |
+    Full-spectrum engineering leadership.  
+    From **teams** to **architecture** to **execution**.
   links:
 #    - label: "Resumé"
 #      icon: "fas fa-fw fa-link"
