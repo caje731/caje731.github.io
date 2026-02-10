@@ -15,7 +15,7 @@ tags:
 > "That's a problem for future Homer!" 👨 
 
 
-<img alt="Bart Simpson shirking his responsibilities" src="https://media.licdn.com/dms/image/v2/D4D22AQHBnatdpSqcQQ/feedshare-shrink_800/feedshare-shrink_800/0/1732051920838?e=1752105600&v=beta&t=4LAEGebWBcwghAoI3HgmGD2pvPup38cVLCM8sNjZji8" width="300" height="300" class="align-left"/>
+<img alt="Bart Simpson shirking his responsibilities" src="/assets/images/homersimpson.jpg" width="300" height="300" class="align-left"/>
 
 <br/>
 There are so many gems in The Simpsons.
