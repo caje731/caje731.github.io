@@ -8,7 +8,9 @@ tags:
 - leadership
 - psychology
 ---
+Sometimes the smartest career move is staying put.
 
+---
 *This was originally [published on LinkedIn][li]*
 
 > "I'm happy where I am."

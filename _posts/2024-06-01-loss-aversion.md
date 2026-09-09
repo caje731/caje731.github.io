@@ -9,9 +9,10 @@ tags:
 - psychology
 - cognitive bias
 ---
+The act of **closing doors** has more to do with our innate tendencies on loss aversion than with rational decision-making.
 
+---
 *This article was originally [published on LinkedIn][li]*
-
 
 Last weekend I learnt of [Daniel Kahneman][wiki]'s demise. Having consumed some of his popular works and some inspired spin-offs, the news saddened me - I felt like I lost a mentor, even though I never knew the man. I spent a bit of time reflecting on his loss-aversion lessons. One of them was the "inability to close doors".
 {: .text-justify }
@@ -30,7 +31,6 @@ In the controlled behavioral experiments, the loss was quantifiable in terms of 
 
 Smart teams know this - when building a great product, the product strategy will also often answer what not to engage in. Business strategies can also benefit with a not-to-pursue list - an idea Uber's CEO may probably subscribe to, as he welcomed an inflection point last year in the company's loss-making history with a likely similar tactic.
 {: .text-justify }
-
 
 [li]: https://www.linkedin.com/posts/cajetanrodrigues_danielkahneman-ikea-uber-activity-7182038619933589504-gOL0
 [wiki]: https://en.wikipedia.org/wiki/Daniel_Kahneman

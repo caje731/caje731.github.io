@@ -8,13 +8,15 @@ tags:
 - leadership
 - psychology
 ---
+Trust is the foundation of effective teamwork, and the Johari Window model provides a structured approach to building it.
 
+---
 *This was originally [published on LinkedIn][li]*
 
 I recently led a [Johari Window][wiki] workshop for one of my teams at Volvo Cars.
 
-
 The Johari Window model enhances emotional intelligence, empathy, and self-awareness in three ways:
+
 * Building trust through self-disclosure.
 * Enhancing self-awareness by comparing how others perceive you versus how you see yourself.
 * Improving communication and relationships through vulnerability.

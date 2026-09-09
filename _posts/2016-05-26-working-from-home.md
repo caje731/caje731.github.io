@@ -1,15 +1,20 @@
 ---
-title: My year working from home.
+title: "My Year Working from Home"
 categories:
   - Blog
-last_modified_at: 2025-06-05T09:57:38+02:00
+last_modified_at: 2026-09-09T08:57:38+02:00
 tags:
 - productivity
 - work from home
 - remote work
 ---
 
-A personal experience.
+This is an account of my personal experiences, challenges, and learnings while working from home.
+
+---
+**EDIT**: It is 2026 and Software Engineering managers are once again pressuring their teams to return to the office 5 days a week. Has COVID-19 taught us nothing about the value of flexibility and remote work? The biggest argument I hear is that collaboration and productivity supposedly suffer when people work remotely. I think managers must stop fabricating problems, and instead focus on creating an environment where employees can thrive, whether they are in the office or working from home.
+
+---
 
 *This article was originally [published to Medium](https://medium.com/@caje731/my-year-working-from-home-7de89e5a7f65) on 2016-05-26*
 

@@ -1,4 +1,5 @@
 ---
+title: "Cython to the Rescue: Making NLTK 30% Faster"
 last_modified_at: 2025-06-04T09:57:38+02:00
 categories:
   - Blog
@@ -11,10 +12,11 @@ tags:
   - natural language processing
   - semantic analysis
 ---
-
-*This is material from a lightning-talk I gave at a [PyPizza Berlin 2019](https://2019.berlin.python.pizza/?ref=python.pizza)*
+If you use NLTK for natural language processing, here's a way to leverage Cython to speed up your Python code without changing a single line!
 
 ---
+
+*This is material from a lightning-talk I gave at a [PyPizza Berlin 2019](https://2019.berlin.python.pizza/?ref=python.pizza)*
 
 At [TrustYou](https://www.trustyou.com/), we deal with heaps of review texts from hotel guests, terabytes of data from all over the Internet. Our goal is to help hoteliers and chains understand what their guests think about their services and how to improve the guest experience so that people like you can have an even more pleasant vacation next time.
 

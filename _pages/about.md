@@ -12,8 +12,8 @@ I'm Cajetan, an experienced software engineer, and a seasoned people-manager. Oc
 I'm always open to a challenge! Roles that fit me best include:
 {: .text-justify }
 
-* Head Of Engineering / Director Of Engineering
-* Principal Software Engineer / Senior Staff Software Engineer
+* CTO / Head Of Engineering / Director Of Engineering
+* Principal Engineer / Staff+ Engineer / Senior Engineer
 
-Available for part-time / consulting engagements for companies in Europe :european_union: and the UK :uk:.
+Globally available for part-time / full-time engagements - get in touch today!
 {: .text-justify }

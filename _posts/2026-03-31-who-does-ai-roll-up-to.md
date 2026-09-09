@@ -8,6 +8,9 @@ tags:
 - ai
 - strategy
 ---
+*I asked a popular LLM who it would like to report to. This is what it said.*
+
+---
 
 The question now turns up across the industry with increasing regularity: where should the AI buck stop? Who does it roll up to?
 
