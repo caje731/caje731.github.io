@@ -5,5 +5,7 @@ main:
   #  url: /tags/
   - title: "Blog"
     url: /posts/
+  - title: "Recordings"
+    url: /recordings/
   - title: "About"
     url: /about/
