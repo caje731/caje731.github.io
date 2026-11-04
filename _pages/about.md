@@ -1,9 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: |
+    ![Cajetan profile photo](/assets/images/profile.png)
+header:
+  overlay_color: "rgba(188, 190, 186, 0.2)"
 ---
-
-<img alt-text="Cajetan's profile photo" src="/assets/images/bio-photo.jpg" width="200" height="200" style="opacity:0.8; filter: grayscale(50%); border-radius: 48%;" class="align-left"/>
 
 I'm Cajetan, an experienced software engineer, and a seasoned people-manager. Occasionally, I write and publish articles here on software engineering and management, for those on a similar path.
 {: .text-justify}
@@ -15,5 +16,5 @@ I'm always open to a challenge! Roles that fit me best include:
 * CTO / Head Of Engineering / Director Of Engineering
 * Principal Engineer / Staff+ Engineer / Senior Engineer
 
-Globally available for part-time / full-time engagements - get in touch today!
+Globally available for full-time / part-time engagements - get in touch today!
 {: .text-justify }
